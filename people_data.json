@@ -1,0 +1,12 @@
+{"people": [
+  {"name": "Bartosz", "surname": "Bryniarski", "age": 20, "city": "Hirschberg"},
+  {"name": "Jane", "surname": "Doe", "age": 28, "city": "Los Angeles"},
+  {"name": "Michael", "surname": "Smith", "age": 35, "city": "Chicago"},
+  {"name": "Emily", "surname": "Jones", "age": 22, "city": "Houston"},
+  {"name": "Daniel", "surname": "Brown", "age": 40, "city": "Philadelphia"},
+  {"name": "Jessica", "surname": "Davis", "age": 25, "city": "Phoenix"},
+  {"name": "William", "surname": "Garcia", "age": 32, "city": "San Antonio"},
+  {"name": "Olivia", "surname": "Miller", "age": 27, "city": "San Diego"},
+  {"name": "Henry", "surname": "Wilson", "age": 45, "city": "Dallas"},
+  {"name": "Sophia", "surname": "Martinez", "age": 38, "city": "San Jose"}
+]}
